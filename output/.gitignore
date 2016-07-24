@@ -1,0 +1,3 @@
+# Track an empty directory, but don't need the content to be tracked.
+*
+!.gitignore
